@@ -1,7 +1,6 @@
 $(document).ready(function(){
 
 loadDigi();
-
    function loadDigi() {
         var url="https://api.coinmarketcap.com/v1/ticker/digibyte/";
         $.getJSON(url, function(data) {
@@ -45,3 +44,5 @@ loadDigi();
             display.innerHTML= total;
 
         }
+
+        
