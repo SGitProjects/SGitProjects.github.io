@@ -29,7 +29,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     cursor: pointer;
     text-align: center;
-    margin-left: 878px;
+    margin-left: 900px;
 }
 
 #digipriceusd1,
@@ -56,4 +56,3 @@ a:hover, a:visited, a:link, a:active
 {
     text-decoration: none;
 }
-
