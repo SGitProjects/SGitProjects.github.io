@@ -29,19 +29,21 @@ body {
     font-family: 'Montserrat', sans-serif;
     cursor: pointer;
     text-align: center;
-    margin-left: 900px;
+    margin: 0 auto;
+    display: block;
 }
 
 #digipriceusd1,
 #totaldigis {
     border: #73a4f8;
     color: #222;
-    margin-left: 868px;
+    margin: 0 auto;
+    display: block;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
 }
 #totaldigis {
-    margin-top: 65px;
+    margin-top: 45 px;
 }
 #total {
     text-align: center;
