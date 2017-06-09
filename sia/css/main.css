@@ -1,0 +1,53 @@
+body {
+    background: #0ea57d;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+#priceoverall {
+    text-align: center;
+    padding-top: 4px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #fff;
+}
+
+.balance {
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #222;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 992px;
+}
+
+.gainsoverall p {
+    padding-top: 15px;
+    color: #222;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    float: left;
+    display: block;
+    margin-right: 10px;
+}
+
+#pricefifteenmin,
+#pricesixtymin,
+#pricesixhour,
+#priceoneday {
+font-family: 'Roboto', sans-serif;
+font-weight: 700;
+color: #fff;
+}
+
+.peoplestats {
+    float: right;
+}
+
+.row {
+    padding-top: 80px;
+}
